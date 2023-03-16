@@ -16,7 +16,7 @@ public class Praktikum {
         while (true) {
             printMenu();
             int command = scanner.nextInt();
-
+qq
             if (command == 1) {
                 System.out.println("Ваши сбережения: " + moneyBeforeSalary + " RUB");
                 System.out.println("В какую валюту хотите конвертировать? Доступные варианты: 1 - USD, 2 - EUR, 3 - JPY.");
